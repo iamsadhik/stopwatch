@@ -1,0 +1,32 @@
+.body{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: yellow;
+    padding: 2rem;
+    max-width: 100%;
+}
+
+button{
+    border: 1px solid black;
+    padding: 1rem 2rem;
+    margin: .5rem;
+    border-radius:10px;
+    font-size:20px;
+    text-transform: uppercase;
+    background-color: yellow;
+}
+
+span{
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: white;
+    cursor: pointer;
+    border-color: white;
+}
+
